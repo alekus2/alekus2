@@ -11,7 +11,7 @@ This is how much code I wrote (as of :14/08/24)
 
 👯 I'm looking to collaborate on projects that use HTML, CSS JS and Python
 
-💬 Ask me about Python, CSS, HTML and technology
+💬 Ask me about Python, HTML, CSS and technology
 
 📫 How to contact me: https://www.linkedin.com/in/buenosdev
 
