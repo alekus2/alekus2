@@ -1,17 +1,17 @@
 Hello 👋
 Davi Bueno here!
 
-This is how much code I have written
+This is how much code I wrote (as of :14/08/24)
 
-<a href="https://wakatime.com/@14e75f44-94d0-4ad8-9a79-459b03179129"><img src="https://wakatime.com/badge/user/14e75f44-94d0-4ad8-9a79- 459b03179129.svg" alt="Total time encoded since August 14, 2024" /></a>
+[![wakatime](https://wakatime.com/badge/user/14e75f44-94d0-4ad8-9a79-459b03179129.svg)](https://wakatime.com/@14e75f44-94d0-4ad8-9a79-459b03179129 )
 
 🔭 I am currently working on 02 projects, 01 of which is private and my integrative project at Senac Hub Academy
 
-🌱 I'm currently studying System Development and Computer Graphics at Senac Hub Academy
+🌱 I'm currently studying Systems Development and Computer Graphics at Senac Hub Academy
 
 👯 I'm looking to collaborate on projects that use HTML, CSS JS and Python
 
-💬 Ask me about Python, CSS, Html, and technology
+💬 Ask me about Python, CSS, HTML and technology
 
 📫 How to contact me: https://www.linkedin.com/in/buenosdev
 
