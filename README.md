@@ -7,7 +7,7 @@ This is how much code I wrote (as of :14/08/24)
 
 🔭 I am currently working on 02 projects, being a 'Math-Game' and my integrative project at Senac Hub Academy
 
-🌱 I'm currently studying Systems Development and Computer Graphics at Senac Hub Academy
+🌱 I am currently attending a Technical Course in Systems Development and a Technical Course in Computer Graphics at Senac Hub Academy
 
 👯 I'm looking to collaborate on projects that use HTML, CSS JS and Python
 
