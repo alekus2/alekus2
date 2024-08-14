@@ -5,7 +5,7 @@ This is how much code I wrote (as of :14/08/24)
 
 [![wakatime](https://wakatime.com/badge/user/14e75f44-94d0-4ad8-9a79-459b03179129.svg)](https://wakatime.com/@14e75f44-94d0-4ad8-9a79-459b03179129 )
 
-🔭 I am currently working on 02 projects, 01 of which is private and my integrative project at Senac Hub Academy
+🔭 I am currently working on 02 projects, being a 'Math-Game' and my integrative project at Senac Hub Academy
 
 🌱 I'm currently studying Systems Development and Computer Graphics at Senac Hub Academy
 
