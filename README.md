@@ -1,4 +1,4 @@
-# Hi 👋, I'm Davi Bueno
+# Hi 👋, I'm Davi Bueno   <img align="center" height="30em"  alt="GitHub" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3BrY3QycHh2MDYwODF4cms4N3RqNmt4dnRhODk4ZWdpam0zazh3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/CwTvSiWflgCGKgz5eb/giphy.webp" >
 
 🌱 I'm Web developer 🔭 Exploring Machine Learning 
 ### [![wakatime](https://wakatime.com/badge/user/14e75f44-94d0-4ad8-9a79-459b03179129.svg)](https://wakatime.com/@14e75f44-94d0-4ad8-9a79-459b03179129 )
@@ -12,7 +12,7 @@
 # Languages ​​and tools
 
 <div style="display: inline_block"><br>
-  <img align="center" height="100em"  alt="Rafa-Js" src="https://media.discordapp.net/attachments/706117027408117801/1273659085408964659/3IsP.gif?ex=66bf6af5&is=66be1975&hm=f27c9471433b67c555801be2eb7da48c675e1ec6079981e0748fb4f410fa415a&=" >
+  <img align="center" height="100em"  alt="Programmer" src="https://media.discordapp.net/attachments/706117027408117801/1273659085408964659/3IsP.gif?ex=66bf6af5&is=66be1975&hm=f27c9471433b67c555801be2eb7da48c675e1ec6079981e0748fb4f410fa415a&=" >
   <img align="center" alt="Davi-CSS"  width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Davi-HTML"  width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Davi-Python" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
