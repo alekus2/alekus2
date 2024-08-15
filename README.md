@@ -20,7 +20,7 @@ This is how much code I wrote (as of :14/08/24)
 
 
 
-<img align="right" height="170em"  alt="Rafa-Js" src="https://media.discordapp.net/attachments/706117027408117801/1273659085408964659/3IsP.gif?ex=66bf6af5&is=66be1975&hm=f27c9471433b67c555801be2eb7da48c675e1ec6079981e0748fb4f410fa415a&=">
+<img align="right" height="160em"  alt="Rafa-Js" src="https://media.discordapp.net/attachments/706117027408117801/1273659085408964659/3IsP.gif?ex=66bf6af5&is=66be1975&hm=f27c9471433b67c555801be2eb7da48c675e1ec6079981e0748fb4f410fa415a&=">
 
 
 
