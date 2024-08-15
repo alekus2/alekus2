@@ -21,7 +21,7 @@ This is how much code I wrote (as of :14/08/24)
 
 
   <tr>
-    <td style="border: none;">
+    <td style="border: none; ">
       <picture>
         <!-- Tema Dracula para esquema de cores escuro -->
         <source
@@ -40,7 +40,6 @@ This is how much code I wrote (as of :14/08/24)
         />
       </picture>
     </td>
-    <br>
     <td style="border: none;">
       <!-- Link para as linguagens mais usadas no GitHub com tema Dracula -->
       <a href="https://github.com/buenosdev/github-readme-stats" target="_blank">
