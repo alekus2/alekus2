@@ -1,7 +1,6 @@
 # Hi 👋, I'm Davi Bueno
 
-🌱 I'm Web developer
-🔭 Exploring Machine Learning
+🌱 I'm Web developer |🔭 Exploring Machine Learning
 
 This is how much code I wrote (as of :14/08/24)
 
