@@ -8,7 +8,7 @@
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=buenosdev&rank_icon=github&title_color=fff&icon_color=79ff97&bg_color=151515&text_color=9f9f9f&include_all_commits=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buenosdev&layout=compact&langs_count=6&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
 </table>
-<img align="right" height="160em"  alt="Rafa-Js" src="https://media.discordapp.net/attachments/706117027408117801/1273659085408964659/3IsP.gif?ex=66bf6af5&is=66be1975&hm=f27c9471433b67c555801be2eb7da48c675e1ec6079981e0748fb4f410fa415a&=">
+
 # Languages ​​and tools
 
 <div style="display: inline_block"><br>
@@ -20,7 +20,7 @@
   <img align="center" alt="Davi-Illustrator"  width="105" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg">
   <img align="center" alt="Davi-Photoshop"  width="105" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg">
 </div><br>
-
+<img align="right" height="160em"  alt="Rafa-Js" src="https://media.discordapp.net/attachments/706117027408117801/1273659085408964659/3IsP.gif?ex=66bf6af5&is=66be1975&hm=f27c9471433b67c555801be2eb7da48c675e1ec6079981e0748fb4f410fa415a&=">
  # Socials
  <div> 
  <a href="https://discord.gg/kxfYKHwkDQ" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
