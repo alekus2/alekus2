@@ -1,7 +1,7 @@
 # Hi 👋, I'm Davi Bueno   <img align="center" height="40em"  alt="GitHub" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3BrY3QycHh2MDYwODF4cms4N3RqNmt4dnRhODk4ZWdpam0zazh3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/CwTvSiWflgCGKgz5eb/giphy.webp" >
 
 🌱 I'm Web developer 🔭 Exploring Machine Learning 
-### [![wakatime](https://wakatime.com/badge/user/14e75f44-94d0-4ad8-9a79-459b03179129.svg)](https://wakatime.com/@14e75f44-94d0-4ad8-9a79-459b03179129 )
+### [![wakatime](https://wakatime.com/badge/user/14e75f44-94d0-4ad8-9a79-459b03179129/project/c54d9e28-2e2d-4b82-bd57-eee24d18e437.svg)](https://wakatime.com/badge/user/14e75f44-94d0-4ad8-9a79-459b03179129/project/c54d9e28-2e2d-4b82-bd57-eee24d18e437)
 
 <table>
   <a href="https://github.com/buenosdev">
