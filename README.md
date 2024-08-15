@@ -2,11 +2,11 @@
 
 🌱 I'm Web developer 🔭 Exploring Machine Learning 
 ### [![wakatime](https://wakatime.com/badge/user/14e75f44-94d0-4ad8-9a79-459b03179129.svg)](https://wakatime.com/@14e75f44-94d0-4ad8-9a79-459b03179129 )
-
+<img align="right" height="160em"  alt="Rafa-Js" src="https://media.discordapp.net/attachments/706117027408117801/1273659085408964659/3IsP.gif?ex=66bf6af5&is=66be1975&hm=f27c9471433b67c555801be2eb7da48c675e1ec6079981e0748fb4f410fa415a&=">
 <table>
   <a href="https://github.com/buenosdev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=buenosdev&show_icons=true&theme=tokyonight&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buenosdev&layout=compact&langs_count=6&theme=tokyonight"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=buenosdev&show_icons=true&theme=tokyonight&include_all_commits=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buenosdev&layout=compact&langs_count=6&theme=tokyonight"/>
 </table>
 
 # Languages ​​and tools
