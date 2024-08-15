@@ -17,8 +17,9 @@ This is how much code I wrote (as of :14/08/24)
 
 ⚡ Fun fact: I started learning to program three years ago and I continue to practice my skills! My specialty is Web Development and my goal is to be a Full Stack Developer
 
+##
 
-<table style="border-collapse: collapse; border: none;">
+
   <tr>
     <td style="border: none;">
       <picture>
@@ -39,6 +40,7 @@ This is how much code I wrote (as of :14/08/24)
         />
       </picture>
     </td>
+    <br>
     <td style="border: none;">
       <!-- Link para as linguagens mais usadas no GitHub com tema Dracula -->
       <a href="https://github.com/buenosdev/github-readme-stats" target="_blank">
@@ -49,7 +51,6 @@ This is how much code I wrote (as of :14/08/24)
       </a>
     </td>
   </tr>
-</table>
 
 
 
