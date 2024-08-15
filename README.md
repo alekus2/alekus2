@@ -20,7 +20,6 @@ This is how much code I wrote (as of :14/08/24)
 ##
 <br>
 <img align="right" height=180  alt="Rafa-Js" src="https://media.discordapp.net/attachments/706117027408117801/1273648740648878181/viciadoemcodar.gif?ex=66bf6153&is=66be0fd3&hm=87bd6cd862c78fcf05f1084c2a0fa847a0a63805e719dbb4825d1e274a372528&=">
-<img align="right" height=180  alt="Rafa-Js" src="https://media.discordapp.net/attachments/706117027408117801/1273648740648878181/viciadoemcodar.gif?ex=66bf6153&is=66be0fd3&hm=87bd6cd862c78fcf05f1084c2a0fa847a0a63805e719dbb4825d1e274a372528&=">
   <td style="border: none; width: 50%;">
     <!-- Link para as linguagens mais usadas no GitHub com tema Dracula -->
     <a href="https://github.com/buenosdev/github-readme-stats" target="_blank">
