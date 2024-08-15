@@ -18,21 +18,21 @@ This is how much code I wrote (as of :14/08/24)
 ⚡ Fun fact: I started learning to program three years ago and I continue to practice my skills! My specialty is Web Development and my goal is to be a Full Stack Developer
 
 ##
-
-
-
+<br>
+<img align="right" height=180  alt="Rafa-Js" src="https://media.discordapp.net/attachments/706117027408117801/1273648740648878181/viciadoemcodar.gif?ex=66bf6153&is=66be0fd3&hm=87bd6cd862c78fcf05f1084c2a0fa847a0a63805e719dbb4825d1e274a372528&=">
+<img align="right" height=180  alt="Rafa-Js" src="https://media.discordapp.net/attachments/706117027408117801/1273648740648878181/viciadoemcodar.gif?ex=66bf6153&is=66be0fd3&hm=87bd6cd862c78fcf05f1084c2a0fa847a0a63805e719dbb4825d1e274a372528&=">
   <td style="border: none; width: 50%;">
     <!-- Link para as linguagens mais usadas no GitHub com tema Dracula -->
     <a href="https://github.com/buenosdev/github-readme-stats" target="_blank">
       <img 
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=buenosdev&theme=dracula"
         alt="Top Langs"
-        style="width: 180; height 180: auto;"
+        style="width: 180; height: 180: auto;"
       />
     </a>
   </td>
 </tr>
-<img align="right" alt="Rafa-Js" src="https://media.discordapp.net/attachments/706117027408117801/1273648740648878181/viciadoemcodar.gif?ex=66bf6153&is=66be0fd3&hm=87bd6cd862c78fcf05f1084c2a0fa847a0a63805e719dbb4825d1e274a372528&=">
+<br>
 <tr>
   <td style="border: none; width: 50%;">
     <picture>
