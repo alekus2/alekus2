@@ -19,9 +19,9 @@ This is how much code I wrote (as of :14/08/24)
 
 ##
 <br>
-<img align="right" height=280  alt="Rafa-Js" src="https://media.discordapp.net/attachments/706117027408117801/1273658440371277834/source.gif?ex=66bf6a5b&is=66be18db&hm=6cb2a9c95d99e95fa3ce6773fdf25f26ddb92f388e94b202580a5557082915a6&=&width=453&height=350">
+<img align="right" height=200  alt="Rafa-Js" src="https://media.discordapp.net/attachments/706117027408117801/1273658440371277834/source.gif?ex=66bf6a5b&is=66be18db&hm=6cb2a9c95d99e95fa3ce6773fdf25f26ddb92f388e94b202580a5557082915a6&=&width=453&height=350">
 <br>
-<img align="right" height=250  alt="Rafa-Js" src="https://media.discordapp.net/attachments/706117027408117801/1273659085408964659/3IsP.gif?ex=66bf6af5&is=66be1975&hm=f27c9471433b67c555801be2eb7da48c675e1ec6079981e0748fb4f410fa415a&=">
+<img align="right" height=200  alt="Rafa-Js" src="https://media.discordapp.net/attachments/706117027408117801/1273659085408964659/3IsP.gif?ex=66bf6af5&is=66be1975&hm=f27c9471433b67c555801be2eb7da48c675e1ec6079981e0748fb4f410fa415a&=">
   <td style="border: none; width: 50%;">
     <!-- Link para as linguagens mais usadas no GitHub com tema Dracula -->
     <a href="https://github.com/buenosdev/github-readme-stats" target="_blank">
