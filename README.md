@@ -16,3 +16,15 @@ This is how much code I wrote (as of :14/08/24)
 📫 How to contact me: https://www.linkedin.com/in/buenosdev
 
 ⚡ Fun fact: I started learning to program three years ago and I continue to practice my skills! My specialty is Web Development and my goal is to be a Full Stack Developer
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=buenosdev&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=buenosdev&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=buenosdev&show_icons=true" />
+</picture>
