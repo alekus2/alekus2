@@ -1,6 +1,6 @@
 # Hi 👋, I'm Davi Bueno
 
-🌱 I'm Web developer |🔭 Exploring Machine Learning 
+🌱 I'm Web developer 🔭 Exploring Machine Learning 
 ### [![wakatime](https://wakatime.com/badge/user/14e75f44-94d0-4ad8-9a79-459b03179129.svg)](https://wakatime.com/@14e75f44-94d0-4ad8-9a79-459b03179129 )
 
 <table>
