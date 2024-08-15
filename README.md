@@ -20,36 +20,40 @@ This is how much code I wrote (as of :14/08/24)
 ##
 
 
-  <tr>
-    <td style="border: none; ">
-      <picture>
-        <!-- Tema Dracula para esquema de cores escuro -->
-        <source
-          srcset="https://github-readme-stats.vercel.app/api?username=buenosdev&show_icons=true&theme=dracula"
-          media="(prefers-color-scheme: dark)"
-        />
-        <!-- Tema padrão para esquema de cores claro e sem preferência -->
-        <source
-          srcset="https://github-readme-stats.vercel.app/api?username=buenosdev&show_icons=true"
-          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-        />
-        <!-- Imagem padrão -->
-        <img
-          src="https://github-readme-stats.vercel.app/api?username=buenosdev&show_icons=true"
-          alt="GitHub Stats"
-        />
-      </picture>
-    </td>
-    <td style="border: none;">
-      <!-- Link para as linguagens mais usadas no GitHub com tema Dracula -->
-      <a href="https://github.com/buenosdev/github-readme-stats" target="_blank">
-        <img
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=buenosdev&theme=dracula"
-          alt="Top Langs"
-        />
-      </a>
-    </td>
-  </tr>
+
+  <td style="border: none; width: 50%;">
+    <!-- Link para as linguagens mais usadas no GitHub com tema Dracula -->
+    <a href="https://github.com/buenosdev/github-readme-stats" target="_blank">
+      <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=buenosdev&theme=dracula"
+        alt="Top Langs"
+        style="width: 180; height 180: auto;"
+      />
+    </a>
+  </td>
+</tr>
+<img align="right" alt="Rafa-Js" src="https://media.discordapp.net/attachments/706117027408117801/1273648740648878181/viciadoemcodar.gif?ex=66bf6153&is=66be0fd3&hm=87bd6cd862c78fcf05f1084c2a0fa847a0a63805e719dbb4825d1e274a372528&=">
+<tr>
+  <td style="border: none; width: 50%;">
+    <picture>
+      <!-- Tema Dracula para esquema de cores escuro -->
+      <source
+        srcset="https://github-readme-stats.vercel.app/api?username=buenosdev&show_icons=true&theme=dracula"
+        media="(prefers-color-scheme: dark)"
+      />
+      <!-- Tema padrão para esquema de cores claro e sem preferência -->
+      <source
+        srcset="https://github-readme-stats.vercel.app/api?username=buenosdev&show_icons=true"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <!-- Imagem padrão -->
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=buenosdev&show_icons=true"
+        alt="GitHub Stats"
+        style="width: 180; height 180: auto;"
+      />
+    </picture>
+  </td>
 
 
 
@@ -60,7 +64,6 @@ This is how much code I wrote (as of :14/08/24)
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-
 
 
 </div><br>
