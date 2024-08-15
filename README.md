@@ -17,57 +17,31 @@ This is how much code I wrote (as of :14/08/24)
 
 ⚡ Fun fact: I started learning to program three years ago and I continue to practice my skills! My specialty is Web Development and my goal is to be a Full Stack Developer
 
-##
-<br>
-<img align="right" height=230  alt="Rafa-Js" src="https://media.discordapp.net/attachments/706117027408117801/1273658440371277834/source.gif?ex=66bf6a5b&is=66be18db&hm=6cb2a9c95d99e95fa3ce6773fdf25f26ddb92f388e94b202580a5557082915a6&=&width=453&height=350">
-<br>
-<img align="right" height=200  alt="Rafa-Js" src="https://media.discordapp.net/attachments/706117027408117801/1273659085408964659/3IsP.gif?ex=66bf6af5&is=66be1975&hm=f27c9471433b67c555801be2eb7da48c675e1ec6079981e0748fb4f410fa415a&=">
-  <td style="border: none; width: 50%;">
-    <!-- Link para as linguagens mais usadas no GitHub com tema Dracula -->
-    <a href="https://github.com/buenosdev/github-readme-stats" target="_blank">
-      <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=buenosdev&theme=dracula"
-        alt="Top Langs"
-        style="width: 180; height: 180: auto;"
-      />
-    </a>
-  </td>
-</tr>
-<br>
-<tr>
-  <td style="border: none; width: 50%;">
-    <picture>
-      <!-- Tema Dracula para esquema de cores escuro -->
-      <source
-        srcset="https://github-readme-stats.vercel.app/api?username=buenosdev&show_icons=true&theme=dracula"
-        media="(prefers-color-scheme: dark)"
-      />
-      <!-- Tema padrão para esquema de cores claro e sem preferência -->
-      <source
-        srcset="https://github-readme-stats.vercel.app/api?username=buenosdev&show_icons=true"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      />
-      <!-- Imagem padrão -->
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=buenosdev&show_icons=true"
-        alt="GitHub Stats"
-        style="width: 180; height 180: auto;"
-      />
-    </picture>
-  </td>
+
+
+
+<img align="right" height="180em"  alt="Rafa-Js" src="https://media.discordapp.net/attachments/706117027408117801/1273659085408964659/3IsP.gif?ex=66bf6af5&is=66be1975&hm=f27c9471433b67c555801be2eb7da48c675e1ec6079981e0748fb4f410fa415a&=">
+
+
+
+<table>
+  <a href="https://github.com/buenosdev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=buenosdev&show_icons=true&theme=tokyonight&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buenosdev&layout=compact&langs_count=6&theme=tokyonight"/>
+</table>
 
 
 
 # Languages ​​and tools
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg">
+  <img align="center" alt="Rafa-CSS"  width="120" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-HTML"  width="120" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-Python" width="120" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-Js"  width="120" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-Js"  width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Rafa-Js"  width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg">
+  <img align="center" alt="Rafa-Js"  width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg">
 
 
 </div><br>
