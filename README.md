@@ -1,7 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=631E88&section=header" alt="top"/>
 
-[[![Typing SVG](https://readme-typing-svg.herokuapp.com/?&color=631E88&center=true&vCenter=true&size=40&width=1000&lines=%E2%9C%A7+HELLO,+MY+NAME+is+Davi+Bueno+%E2%9C%A7;I'm+17+years+old;I'm+a+Front-End+Web+Developer;I+study+systems+development+at+Senac+Hub;Be+Welcome!+:%29)](https://git.io/typing-svg)](https://github.com/buenosdev)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?&color=631E88&center=true&vCenter=true&size=40&width=1000&lines=%E2%9C%A7+HELLO,+MY+NAME+is+Davi+Bueno+%E2%9C%A7;I'm+17+years+old;I'm+a+Front-End+Web+Developer;I+study+systems+development+at+Senac+Hub;Be+Welcome!+:%29)](https://git.io/typing-svg)
 <br>
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=buenosdev&rank_icon=github&count_private=true&hide_border=true&title_color=631E88&icon_color=631E88&text_color=c9d1d9&bg_color=0d1117" alt="Davi Bueno github stats" /> 
@@ -11,7 +10,7 @@
 <br>
 <br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=buenosdev&bg_color=0d1117&color=743796&line=631E88&point=743796&area=true&hide_border=true)](https://github.com/buenosdev/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=buenosdev&bg_color=transparent&color=743796&line=631E88&point=743796&area=true&hide_border=true)](https://github.com/buenosdev/github-readme-activity-graph)
 
 <br>
 <br>
