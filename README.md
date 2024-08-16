@@ -60,7 +60,7 @@
 ![C++](https://img.shields.io/badge/C%2B%2B-3CB371?logo=cplusplus&logoColor=fff&style=for-the-badge)&nbsp; 
 ![Python](https://img.shields.io/badge/Python-3CB371?logo=python&logoColor=fff&style=for-the-badge)&nbsp;
 
-<img align="right" src="https://komarev.com/ghpvc/?username=buenosdev&color=008000"><br>
+
 
 <div align="center">
   <a href="https://github.com/buenosdev">
