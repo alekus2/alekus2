@@ -1,24 +1,24 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=631E88&section=header" alt="top"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=008000&section=header" alt="top"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?&color=631E88&center=true&vCenter=true&size=40&width=1000&lines=%E2%9C%A7+HELLO,+MY+NAME+is+Davi+Bueno+%E2%9C%A7;I'm+17+years+old;I'm+a+Front-End+Web+Developer;I+study+systems+development+at+Senac+Hub;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?&color=008000&center=true&vCenter=true&size=40&width=1000&lines=%E2%9C%A7+HELLO,+MY+NAME+is+Davi+Bueno+%E2%9C%A7;I'm+17+years+old;I'm+a+Front-End+Web+Developer;I+study+systems+development+at+Senac+Hub;Be+Welcome!+:%29)](https://git.io/typing-svg)
 <br>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=buenosdev&rank_icon=github&count_private=true&hide_border=true&title_color=631E88&icon_color=631E88&text_color=631E88&bg_color=transparent" alt="Davi Bueno github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buenosdev&layout=compact&hide_border=true&title_color=631E88&text_color=631E88&bg_color=transparent" alt="MostUsedLanguages" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=buenosdev&rank_icon=github&count_private=true&hide_border=true&title_color=228b22&icon_color=008000&text_color=006400&theme=transparent" alt="Davi Bueno github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buenosdev&layout=compact&hide_border=true&title_color=228b22&text_color=006400&theme=transparent" alt="MostUsedLanguages" />
 </div>
 
 
 <br>
 <br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=buenosdev&bg_color=transparent&color=743796&line=631E88&point=743796&area=true&hide_border=true)](https://github.com/buenosdev/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=buenosdev&bg_color=transparent&color=008000&line=006400&point=228b22&area=true&hide_border=true)](https://github.com/buenosdev/github-readme-activity-graph)
 
 <br>
 <br>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=buenosdev&theme=onedark&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=buenosdev&theme=matrix&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
 <br>
@@ -57,11 +57,11 @@
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=for-the-badge)&nbsp; 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)&nbsp;
 
-<img align="right" src="https://komarev.com/ghpvc/?username=buenosdev&color=631E88"><br>
+<img align="right" src="https://komarev.com/ghpvc/?username=buenosdev&color=008000"><br>
 
 <div align="center">
   <a href="https://github.com/buenosdev">
   </a>
 </div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=631E88&section=footer" alt="bottom"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=008000&section=footer" alt="bottom"/>
 
