@@ -29,14 +29,14 @@
 </div> 
 
 
-### $\textcolor{#00FF00}{Main\ Skills}$:
+### $\textcolor{#3CB371}{Main\ Skills}$:
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=for-the-badge)&nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)&nbsp;
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=for-the-badge)&nbsp;
 ![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?logo=adobeillustrator&logoColor=fff&style=for-the-badge)&nbsp;
 
-### $\textcolor{#00FF00}{Tools}$:
+### $\textcolor{#3CB371}{Tools}$:
 
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge)&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge)&nbsp;
@@ -48,14 +48,14 @@
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=for-the-badge)&nbsp;
 ![Indesign](https://img.shields.io/badge/Adobe%20InDesign-F36?logo=adobeindesign&logoColor=fff&style=for-the-badge)&nbsp;
 
-### $\textcolor{#00FF00}{Other\ Knowledge}$:
+### $\textcolor{#3CB371}{Other\ Knowledge}$:
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=for-the-badge)&nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)&nbsp;
 
-### $\textcolor{#00FF00}{Studying\ in\ this\ moment}$:
+### $\textcolor{#3CB371}{Studying\ in\ this\ moment}$:
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=for-the-badge)&nbsp; 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)&nbsp;
