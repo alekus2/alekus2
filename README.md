@@ -56,5 +56,11 @@
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=for-the-badge)&nbsp; 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)&nbsp;
 
+<img align="right" src="https://komarev.com/ghpvc/?username=buenosdev&color=631E88"><br>
+
+<div align="center">
+  <a href="https://github.com/buenosdev">
+  </a>
+</div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=631E88&section=footer" alt="bottom"/>
 
