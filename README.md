@@ -43,6 +43,6 @@
 ### Studying in this moment:
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=for-the-badge)&nbsp; 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)&nbsp;
-![snake gif](https://github.com/buenosdev/buenosdev/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/buenosdev/buenosdev/blob/output/github-contribution-grid-snake.gif)
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
