@@ -2,10 +2,12 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?&color=631E88&center=true&vCenter=true&size=40&width=1000&lines=%E2%9C%A7+HELLO,+MY+NAME+is+Davi+Bueno+%E2%9C%A7;I'm+17+years+old;I'm+a+Front-End+Web+Developer;I+study+systems+development+at+Senac+Hub;Be+Welcome!+:%29)](https://git.io/typing-svg)
 <br>
+
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=buenosdev&rank_icon=github&count_private=true&bg_color=transparent&hide_border=true&title_color=631E88&icon_color=631E88&text_color=c9d1d9&bg_color=0d1117" alt="Davi Bueno github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buenosdev&layout=compact&bg_color=transparent&hide_border=true&title_color=631E88&text_color=FFF&bg_color=0d1117" alt="MostUsedLanguages"" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=buenosdev&rank_icon=github&count_private=true&hide_border=true&title_color=631E88&icon_color=631E88&text_color=c9d1d9&bg_color=transparent" alt="Davi Bueno github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buenosdev&layout=compact&hide_border=true&title_color=631E88&text_color=FFF&bg_color=transparent" alt="MostUsedLanguages" />
 </div>
+
 
 <br>
 <br>
