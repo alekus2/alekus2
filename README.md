@@ -25,40 +25,40 @@
 <br>
 
 <div align="center">  
-<a href="https://www.linkedin.com/in/buenosdev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge"</a>
+<a href="https://www.linkedin.com/in/buenosdev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-3CB371?logo=linkedin&logoColor=fff&style=for-the-badge"</a>
 </div> 
 
 
 ### $\textcolor{#3CB371}{Main\ Skills}$:
-![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=for-the-badge)&nbsp;
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)&nbsp;
-![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=for-the-badge)&nbsp;
-![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?logo=adobeillustrator&logoColor=fff&style=for-the-badge)&nbsp;
+![HTML](https://img.shields.io/badge/HTML5-3CB371?logo=html5&logoColor=fff&style=for-the-badge)&nbsp;
+![CSS](https://img.shields.io/badge/CSS3-3CB371?logo=css3&logoColor=fff&style=for-the-badge)&nbsp;
+![Python](https://img.shields.io/badge/Python-3CB371?logo=python&logoColor=fff&style=for-the-badge)&nbsp;
+![Figma](https://img.shields.io/badge/Figma-3CB371?logo=figma&logoColor=fff&style=for-the-badge)&nbsp;
+![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-3CB371?logo=adobeillustrator&logoColor=fff&style=for-the-badge)&nbsp;
 
 ### $\textcolor{#3CB371}{Tools}$:
 
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge)&nbsp;
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge)&nbsp;
-![Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=fff&style=for-the-badge)&nbsp;
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge)&nbsp;
-![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=for-the-badge)&nbsp;
-![Adobe](https://img.shields.io/badge/Adobe-F00?logo=adobe&logoColor=fff&style=for-the-badge)&nbsp;
-![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?logo=adobeillustrator&logoColor=fff&style=for-the-badge)&nbsp;
-![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=for-the-badge)&nbsp;
-![Indesign](https://img.shields.io/badge/Adobe%20InDesign-F36?logo=adobeindesign&logoColor=fff&style=for-the-badge)&nbsp;
+![Git](https://img.shields.io/badge/Git-3CB371?logo=git&logoColor=fff&style=for-the-badge)&nbsp;
+![GitHub](https://img.shields.io/badge/GitHub-3CB371?logo=github&logoColor=fff&style=for-the-badge)&nbsp;
+![Colab](https://img.shields.io/badge/Google%20Colab-3CB371?logo=googlecolab&logoColor=fff&style=for-the-badge)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-3CB371?logo=mysql&logoColor=fff&style=for-the-badge)&nbsp;
+![Figma](https://img.shields.io/badge/Figma-3CB371?logo=figma&logoColor=fff&style=for-the-badge)&nbsp;
+![Adobe](https://img.shields.io/badge/Adobe-3CB371?logo=adobe&logoColor=fff&style=for-the-badge)&nbsp;
+![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-3CB371?logo=adobeillustrator&logoColor=fff&style=for-the-badge)&nbsp;
+![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-3CB371?logo=adobephotoshop&logoColor=fff&style=for-the-badge)&nbsp;
+![Indesign](https://img.shields.io/badge/Adobe%20InDesign-3CB371?logo=adobeindesign&logoColor=fff&style=for-the-badge)&nbsp;
 
 ### $\textcolor{#3CB371}{Other\ Knowledge}$:
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=for-the-badge)&nbsp;
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)&nbsp;
+![HTML](https://img.shields.io/badge/HTML5-3CB371?logo=html5&logoColor=fff&style=for-the-badge)&nbsp;
+![CSS](https://img.shields.io/badge/CSS3-3CB371?logo=css3&logoColor=fff&style=for-the-badge)&nbsp;
+![Python](https://img.shields.io/badge/Python-3CB371?logo=python&logoColor=fff&style=for-the-badge)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-3CB371?logo=javascript&logoColor=fff&style=for-the-badge)&nbsp;
 
 ### $\textcolor{#3CB371}{Studying\ in\ this\ moment}$:
 
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=for-the-badge)&nbsp; 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)&nbsp;
+![C++](https://img.shields.io/badge/C%2B%2B-3CB371?logo=cplusplus&logoColor=fff&style=for-the-badge)&nbsp; 
+![Python](https://img.shields.io/badge/Python-3CB371?logo=python&logoColor=fff&style=for-the-badge)&nbsp;
 
 <img align="right" src="https://komarev.com/ghpvc/?username=buenosdev&color=008000"><br>
 
