@@ -12,7 +12,7 @@
 <br>
 <br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=buenosdev&bg_color=transparent&color=3CB371&line=006400&point=00FF00&area=true&hide_border=true)](https://github.com/buenosdev/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=buenosdev&bg_color=transparent&color=3CB371&line=006400&point=3CB371&area=true&hide_border=true)](https://github.com/buenosdev/github-readme-activity-graph)
 
 <br>
 <br>
