@@ -15,7 +15,7 @@
 <br>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=buenosdev&rank_icon=github&count_private=true&hide_border=true&title_color=3CB371&icon_color=008000&text_color=3CB371&theme=transparent" alt="Davi Bueno github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=buenosdev&rank_icon=github&count_private=true&hide_border=true&title_color=3CB371&hide=contribs,issues&include_all_commits=true&icon_color=008000&text_color=3CB371&theme=transparent" alt="Davi Bueno github stats" /> 
   
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buenosdev&layout=compact&hide_border=true&title_color=3CB371&text_color=3CB371&theme=transparent" alt="MostUsedLanguages" />
 </div>
@@ -23,9 +23,7 @@
 <br>
 <br>
 
-<div align="center">  
-<a href="https://www.linkedin.com/in/buenosdev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-3CB371?logo=linkedin&logoColor=fff&style=for-the-badge"</a>
-</div> 
+
 
 
 ### $\textcolor{#3CB371}{Main\ Skills}$:
@@ -59,7 +57,9 @@
 ![C++](https://img.shields.io/badge/C%2B%2B-3CB371?logo=cplusplus&logoColor=fff&style=for-the-badge)&nbsp; 
 ![Python](https://img.shields.io/badge/Python-3CB371?logo=python&logoColor=fff&style=for-the-badge)&nbsp;
 
-<img align="right" src="https://komarev.com/ghpvc/?username=buenosdev&color=008000"><br>
+<div align="right">  
+<a href="https://www.linkedin.com/in/buenosdev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-3CB371?logo=linkedin&logoColor=fff&style=for-the-badge"</a>
+</div> 
 
 <div align="center">
   <a href="https://github.com/buenosdev">
