@@ -3,7 +3,7 @@
 Estudante de Engenharia de Software | Assistente Administrativo | Focado em automação e desenvolvimento web.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/alex-vinicius-correia-dos-santos" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/alex-vinicius-correia-dos-santos-20275a333" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="48" height="48">
   </a>
 </p>
