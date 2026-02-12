@@ -2,8 +2,11 @@
 
 Estudante de Engenharia de Software | Assistente Administrativo | Focado em automação e desenvolvimento web.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Visitar-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_LINKEDIN_AQUI)
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/alex-vinicius-correia-dos-santos" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="48" height="48">
+  </a>
+</p>
 ---
 
 ## Sobre mim
@@ -28,8 +31,6 @@ Tenho experiência em tarefas administrativas e estou direcionando minha carreir
 
 - **Experiência:** +2 anos (tarefas administrativas / projetos pessoais)  
 - **Projetos:** Automação & Web  
-- **Aprendizado:** Contínuo
+- **Aprendizado:** Senac MS & Unigran Capital
 
 ---
-
-> Feito com ❤️ — personalize este template e adicione links para projetos e contato.
