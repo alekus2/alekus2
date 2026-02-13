@@ -19,7 +19,12 @@
 
 Tenho experiência em tarefas administrativas e estou direcionando minha carreira para a área de tecnologia, com foco em automação e desenvolvimento.  
 Atualmente estudo Engenharia de Software e trabalho com soluções práticas para otimizar processos.
-
+## 📩 Contato
+<p align="left">
+  <a href="https://www.linkedin.com/in/alex-vinicius-correia-dos-santos-20275a333" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="56" />
+  </a>
+</p>
 ---
 
 ## 🔧 Conhecimentos
