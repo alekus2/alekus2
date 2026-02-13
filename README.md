@@ -41,15 +41,11 @@ Atualmente estudo Engenharia de Software e trabalho com soluções práticas par
 
 ---
 
-## 📊 GitHub & WakaTime
+## 📊 GitHub 
 
 <p align="center">
-  <!-- GitHub stats (usuário alekus2) -->
   <img src="https://github-readme-stats.vercel.app/api?username=alekus2&show_icons=true&theme=dark&hide_border=true" alt="alekus2 GitHub stats" />
-
-  <!-- Se usar WakaTime, substitua YOUR_WAKATIME_ID abaixo -->
   <br/>
-  <img src="https://wakatime.com/badge/user/YOUR_WAKATIME_ID.svg" alt="wakatime">
 </p>
 
 ![bottom-border](https://singlecolorimage.com/get/0b3b5a/1200x8)
