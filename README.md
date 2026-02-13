@@ -51,9 +51,6 @@ Atualmente estudo Engenharia de Software e trabalho com soluções práticas par
 
 ## 📊 GitHub 
 
-<p align="center">
-  [![GitHub](https://img.shields.io/badge/GitHub-alekus2-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alekus2)
-  <br/>
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-alekus2-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alekus2)
 
 ![bottom-border](https://singlecolorimage.com/get/0b3b5a/1200x8)
