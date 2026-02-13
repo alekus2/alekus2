@@ -7,25 +7,22 @@
   <p align="left">Estudante de Engenharia de Software | Assistente Administrativo | Focado em automação e desenvolvimento web.</p>
 </p>
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/alex-vinicius-correia-dos-santos-20275a333" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="56" />
-  </a>
-</p>
-
----
+-----------------
 
 ## 🧑‍💻 Sobre mim
 
 Tenho experiência em tarefas administrativas e estou direcionando minha carreira para a área de tecnologia, com foco em automação e desenvolvimento.  
 Atualmente estudo Engenharia de Software e trabalho com soluções práticas para otimizar processos.
+
+-----------------
+
 ## 📩 Contato
 <p align="left">
   <a href="https://www.linkedin.com/in/alex-vinicius-correia-dos-santos-20275a333" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="56" />
   </a>
 </p>
----
+-----------------
 
 ## 🔧 Conhecimentos
 
@@ -36,7 +33,7 @@ Atualmente estudo Engenharia de Software e trabalho com soluções práticas par
   <img alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" style="margin:8px"/>
 </p>
 
----
+-----------------
 
 ## Estatísticas rápidas
 
@@ -44,7 +41,7 @@ Atualmente estudo Engenharia de Software e trabalho com soluções práticas par
 - **Projetos:** Automação & Web  
 - **Aprendizado:** Senac MS & Unigran Capital
 
----
+-----------------
 
 ## 📊 GitHub 
 
