@@ -52,7 +52,7 @@ Atualmente estudo Engenharia de Software e trabalho com soluções práticas par
 ## 📊 GitHub 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alekus2&show_icons=true&theme=dark&hide_border=true" alt="alekus2 GitHub stats" />
+  [![GitHub](https://img.shields.io/badge/GitHub-alekus2-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alekus2)
   <br/>
 </p>
 
