@@ -45,10 +45,19 @@ Atualmente estudo Engenharia de Software e trabalho com soluções práticas par
 
 ## Estatísticas
 
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark&hide_border=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dark&hide_border=true" />
-</div>
+<p>
+    <div align="center">
+      <img
+        height="180"
+        src="https://github-readme-stats-sigma-five.vercel.app/api?username=alekus2&show_icons=true&theme=react&include_all_commits=true&locale=pt-br"
+      />
+      &nbsp;&nbsp;&nbsp;&nbsp;
+      <img
+        height="180"
+        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alekus2&layout=compact&custom_title=Tecnologias&langs_count=9&theme=react"
+      />
+    </div>
+</p>
 -----------------
 
 ## 📊 GitHub 
