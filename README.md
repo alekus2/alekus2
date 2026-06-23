@@ -24,7 +24,7 @@ Atualmente estudo Engenharia de Software e trabalho com soluções práticas par
   </a>
 </p>
 <p align="left">
-  <a href="https://instagram.com/sntz.leks_)" target="_blank" rel="noopener noreferrer">
+  <a href="https://instagram.com/sntz.leks_/)" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>  
