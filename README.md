@@ -43,12 +43,12 @@ Atualmente estudo Engenharia de Software e trabalho com soluções práticas par
 
 -----------------
 
-## Estatísticas rápidas
+## Estatísticas
 
-- **Experiência:** +2 anos (tarefas administrativas / projetos pessoais)  
-- **Projetos:** Automação & Web  
-- **Aprendizado:** Senac MS & Unigran Capital
-
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dark&hide_border=true" />
+</div>
 -----------------
 
 ## 📊 GitHub 
