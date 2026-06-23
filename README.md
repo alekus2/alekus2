@@ -1,5 +1,3 @@
-
-
 ![top-border](https://singlecolorimage.com/get/0b3b5a/1200x8)
 
 <p align="left">
@@ -7,14 +5,11 @@
   <p align="left">Estudante de Engenharia de Software | Assistente Administrativo | Focado em automação e desenvolvimento web.</p>
 </p>
 
------------------
-
 ## 🧑‍💻 Sobre mim
 
 Tenho experiência em tarefas administrativas e estou direcionando minha carreira para a área de tecnologia, com foco em automação e desenvolvimento.  
 Atualmente estudo Engenharia de Software e trabalho com soluções práticas para otimizar processos.
 
------------------
 
 ## 📩 Contato
 
@@ -29,8 +24,6 @@ Atualmente estudo Engenharia de Software e trabalho com soluções práticas par
   </a>
 </p>  
 
------------------
-
 ## 🔧 Conhecimentos
 
 <p align="left">
@@ -40,8 +33,6 @@ Atualmente estudo Engenharia de Software e trabalho com soluções práticas par
   <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" />
   <img alt="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" />
 </p>
-
------------------
 
 ## Estatísticas
 
@@ -58,10 +49,11 @@ Atualmente estudo Engenharia de Software e trabalho com soluções práticas par
       />
     </div>
 </p>
------------------
 
-## 📊 GitHub 
+## 📊 Contato
 
-[![GitHub](https://img.shields.io/badge/GitHub-alekus2-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alekus2)
+- GitHub: [alekus2](https://github.com/alekus2)
+- LinkedIn: [Alex Vinícius](https://www.linkedin.com/in/alex-vinicius-correia-dos-santos-20275a333/)
+- E-mail: [alexvinicorreia76@gmail.com](mailto:alexvinicorreia76@gmail.com)
 
 ![bottom-border](https://singlecolorimage.com/get/0b3b5a/1200x8)
