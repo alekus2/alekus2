@@ -46,7 +46,7 @@ Atualmente estudo Engenharia de Software e trabalho com soluções práticas par
 ## Estatísticas
 
 <p>
-    <div align="center">
+    <div align="left">
       <img
         height="180"
         src="https://github-readme-stats-sigma-five.vercel.app/api?username=alekus2&show_icons=true&theme=react&include_all_commits=true&locale=pt-br"
