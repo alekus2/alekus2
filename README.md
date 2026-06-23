@@ -22,11 +22,12 @@ Atualmente estudo Engenharia de Software e trabalho com soluções práticas par
   <a href="https://www.linkedin.com/in/alex-vinicius-correia-dos-santos-20275a333" target="_blank" rel="noopener noreferrer">
    <img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://instagram.com/sant.leks_" target="_blank" rel="noopener noreferrer">
+</p>
+<p align="left">
+  <a href="https://instagram.com/sntz.leks_)" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-</p>
-
+</p>  
 
 -----------------
 
