@@ -33,26 +33,10 @@ Me chamo Alex Vinícius, sou um jovem de 18 anos focado e empenhado em soluçõe
 
 <p align="left">
   <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" />
-  <img alt="Flask" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="48" height="48" />
-  <img alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" />
+  <img alt="Flask" src="https://devicons.io/devicons/icons/flask.svg" width="48" height="48" />
+  <img alt="SQLServer" src="https://devicons.io/devicons/icons/microsoft-sql-server.svg" width="48" height="48" />
   <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" />
   <img alt="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" />
-</p>
-
-##  📈 Estatísticas
-
-<p>
-    <div align="left">
-      <img
-        height="180"
-        src="https://github-readme-stats-sigma-five.vercel.app/api?username=alekus2&show_icons=true&theme=react&include_all_commits=true&locale=pt-br"
-      />
-      &nbsp;&nbsp;&nbsp;&nbsp;
-      <img
-        height="180"
-        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alekus2&layout=compact&custom_title=Tecnologias&langs_count=9&theme=react"
-      />
-    </div>
 </p>
 
 ![bottom-border](https://singlecolorimage.com/get/0b3b5a/1200x8)
