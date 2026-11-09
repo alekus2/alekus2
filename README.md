@@ -39,4 +39,15 @@ Me chamo Alex Vinícius, sou um jovem de 18 anos focado e empenhado em soluçõe
   <img alt="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" />
 </p>
 
+## 📈 Estatísticas de Atividade
+
+<div align="center">
+  <img height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=alekus2&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
+  />
+  <img height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=alekus2&layout=compact&theme=tokyonight"
+  />
+</div>
+
 ![bottom-border](https://singlecolorimage.com/get/0b3b5a/1200x8)
