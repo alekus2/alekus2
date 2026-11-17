@@ -41,17 +41,17 @@ Sou estudante de Engenharia de Software e desenvolvedor web em formação. Minha
 
 ### 🔹 Status
 
-<div align="center">
-<img
-    height="180"
-    src="https://streak-stats.demolab.com/?user=alekus2&theme=react"
-/>
-    &nbsp;&nbsp;&nbsp;&nbsp;
-<img
-        height="180"
-        src="https://github-stats-extended.vercel.app/api/top-langs/?username=alekus2&layout=compact&custom_title=Tecnologias&langs_count=9&theme=react"
-    />
-</div>
+
+
+<p align="center">
+  <img height="140" src="https://streak-stats.demolab.com/?user=alekus2&theme=react" />
+  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=alekus2&layout=compact&custom_title=Tecnologias&langs_count=9&theme=react" />
+  <img height="150" src="https://github-stats-extended.vercel.app/api?username=alekus2&theme=react" />
+</p>
+
+
+
+
 
 ### 🔹 Projetos
 
